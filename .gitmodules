@@ -1,0 +1,3 @@
+[submodule "BubbleDetector/pylive"]
+	path = BubbleDetector/pylive
+	url = git@github.com:engineersportal/pylive.git
